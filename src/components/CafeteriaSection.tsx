@@ -11,7 +11,7 @@ export default function CafeteriaSection() {
                         <h2 className="text-3xl md:text-4xl">Almuerzos Ejecutivos</h2>
                         <div className="space-y-4 text-gray-600">
                             <p className="text-lg">
-                                Disfruta de una experiencia casera completa.
+                                Disfruta de una experiencia casera completa. <strong className="text-primary block text-2xl mt-2">$2.00</strong>
                             </p>
                             <ul className="space-y-2 inline-block text-left">
                                 <li className="flex items-center gap-2">

@@ -13,7 +13,8 @@ export const metadata: Metadata = {
   description: "Tamales de chancho, pollo, mixtos y queso con la auténtica receta lojana. Ideales para tu desayuno, cafecito o eventos en San Sebastián, Loja.",
   keywords: ["tamales loja", "tamal lojano", "san sebastian loja", "comida típica loja", "humitas", "quimbolitos", "desayuno loja"],
   icons: {
-    icon: "/favicon.ico",
+    icon: "/images/general/logo.png",
+    apple: "/images/general/logo.png",
   },
 };
 

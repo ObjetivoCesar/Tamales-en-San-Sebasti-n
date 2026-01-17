@@ -17,8 +17,13 @@ export default function Header() {
         <header className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 ${isScrolled ? 'h-[70px] glass-panel' : 'h-[90px] bg-transparent'}`}>
             <div className="container h-full flex items-center justify-between">
                 {/* Brand */}
-                <div className={`text-2xl font-extrabold tracking-tight transition-colors ${isScrolled ? 'text-gray-900' : 'text-gray-800'}`}>
-                    Chabaquito
+                <div className={`flex items-center gap-2 text-2xl font-extrabold tracking-tight transition-colors ${isScrolled ? 'text-gray-900' : 'text-gray-800'}`}>
+                    {/* Logo Image */}
+                    <div className="relative w-10 h-10 md:w-12 md:h-12">
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img src="/images/general/logo.png" alt="Logo" className="object-contain w-full h-full" />
+                    </div>
+                    <span>Chabaquito</span>
                 </div>
 
                 {/* Desktop Nav */}
