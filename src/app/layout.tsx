@@ -16,6 +16,18 @@ export const metadata: Metadata = {
     icon: "/images/general/logo.png",
     apple: "/images/general/logo.png",
   },
+  openGraph: {
+    title: "Tamales tradicionales en San Sebastián, Loja | Chabaquito",
+    description: "Tamales de chancho, pollo, mixtos y queso con la auténtica receta lojana.",
+    images: ["/images/general/logo.png"],
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "Chabaquito - Tamales Lojanos",
+    description: "Tamales tradicionales en San Sebastián, Loja.",
+    images: ["/images/general/logo.png"],
+  },
 };
 
 export default function RootLayout({
