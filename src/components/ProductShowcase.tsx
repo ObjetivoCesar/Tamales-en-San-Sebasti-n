@@ -59,7 +59,13 @@ function ProductCard({ product }: { product: typeof products[0] }) {
     const handleOrder = async () => {
         // Track click to Google Sheets
         try {
-            await fetch('https://script.google.com/macros/s/AKfycbz3VLAaojJiD3TgJPiMHvboVlr9Lp8M3LKjTZdJJcWhiG8vFKLtKIMtiIlb8E4mIly2Mg/exec', {
+            const scriptUrl = process.env.NEXT_PUBLIC_GOOGLE_SCRIPT_URL;
+            if (!scriptUrl) {
+                console.warn('Google Script URL not configured');
+                return;
+            }
+
+            await fetch(scriptUrl, {
                 method: 'POST',
                 mode: 'no-cors',
                 headers: { 'Content-Type': 'application/json' },
