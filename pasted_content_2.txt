@@ -1,0 +1,105 @@
+```json
+{
+  "estilo_general": {
+    "paleta_de_colores": {
+      "primario": "#F4C430 - Amarillo mostaza cálido",
+      "secundario": "#FFFFFF - Blanco",
+      "terciario": "#FFF8E7 - Beige claro/crema",
+      "acento": "#D97706 - Naranja/marrón dorado",
+      "texto": "#2D3748 - Gris oscuro casi negro"
+    },
+    "tipografia": {
+      "fuente_principal": "Sans-serif moderna, peso variable",
+      "titulos": "Bold, gran tamaño",
+      "cuerpo": "Regular, legible"
+    }
+  },
+  "hero_section": {
+    "fondo": "Degradado amarillo sólido",
+    "layout": "Texto a la izquierda, imagen de producto a la derecha",
+    "titulo": {
+      "tamano": "Extra grande (aproximadamente 72-80px)",
+      "peso": "Bold",
+      "color": "Blanco"
+    },
+    "cta_button": {
+      "forma": "Redondeado (border-radius: 25-30px)",
+      "color_fondo": "Marrón/naranja oscuro",
+      "padding": "15px 35px"
+    },
+    "decoracion": "Elementos de hojas y frutas flotantes en las esquinas"
+  },
+  "cards_producto": {
+    "contenedor": {
+      "display": "Grid 3 columnas",
+      "gap": "20-30px",
+      "margen_superior": "40-50px"
+    },
+    "card_individual": {
+      "fondo": "Beige claro (#FFF8E7)",
+      "border_radius": "20-25px",
+      "padding": "30px",
+      "sombra": "Suave, apenas perceptible",
+      "imagen": {
+        "posicion": "Centrada superior",
+        "tamano": "Aproximadamente 60-70% del ancho"
+      },
+      "precio": {
+        "tamano": "Grande",
+        "peso": "Bold",
+        "formato": "Tachado para precio original"
+      },
+      "boton": {
+        "forma": "Pill shape (muy redondeado)",
+        "color": "#F4C430",
+        "tamano": "Pequeño-mediano"
+      }
+    }
+  },
+  "seccion_destacada": {
+    "layout": "Horizontal con imagen a la izquierda y texto a la derecha",
+    "fondo": "Blanco/crema muy claro",
+    "padding": "50-60px",
+    "separacion_elementos": "30-40px"
+  },
+  "seccion_informativa": {
+    "fondo": "Beige claro",
+    "layout": "Dos columnas asimétricas",
+    "elementos_graficos": {
+      "iconos": "Simples, línea fina",
+      "ilustraciones": "Minimalistas con colores de marca"
+    },
+    "padding": "60px 40px"
+  },
+  "espaciado_general": {
+    "margen_secciones": "80-100px",
+    "padding_lateral_contenedor": "5-8% del viewport",
+    "max_width_contenido": "1400-1500px centrado"
+  },
+  "elementos_decorativos": {
+    "hojas": "Orgánicas, verdes, posicionadas en esquinas",
+    "frutas": "Realistas, fotografías de alta calidad",
+    "estilo": "Natural, fresco, orgánico"
+  },
+  "botones_globales": {
+    "primario": {
+      "border_radius": "25-30px",
+      "padding": "12-15px 30-40px",
+      "fuente_peso": "Medium-Bold"
+    },
+    "secundario": {
+      "borde": "2px sólido",
+      "fondo": "Transparente o blanco"
+    }
+  },
+  "imagenes": {
+    "estilo": "Fotografía profesional con fondo natural",
+    "calidad": "Alta resolución",
+    "tratamiento": "Sombras suaves, recorte limpio"
+  },
+  "responsive": {
+    "enfoque": "Mobile-first aparente",
+    "breakpoints": "Grid se adapta a columna única en móvil"
+  }
+}
+```

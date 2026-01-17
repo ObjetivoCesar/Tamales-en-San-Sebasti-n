@@ -1,0 +1,247 @@
+Perfecto César. Aquí tienes UN SOLO PROMPT, listo para copiar y pegar tal cual en tu agente (Manus o el que uses).
+Está escrito en primera persona, con estructura clara, copy definitivo, SEO local, autoridad temática y objetivo de conversión a WhatsApp.
+
+No es código. Es exactamente lo que debe entender la IA que va a construir la página.
+
+
+---
+
+✅ PROMPT ÚNICO PARA CREAR LA PÁGINA WEB
+
+
+---
+
+Quiero que crees una landing page HTML ultra simple, rápida y enfocada en pedidos por WhatsApp para un negocio local de comida.
+
+📍 Ubicación: San Sebastián, Loja, Ecuador
+🎯 Objetivo único: que las personas escriban por WhatsApp para pedir tamales
+📈 Objetivo secundario: posicionar en Google para búsquedas como:
+“tamales en San Sebastián”, “tamales San Sebastián Loja”, “tamales en Loja”, “tamal lojano en San Sebastián”.
+
+La página debe estar escrita en primera persona, como si hablara directamente el negocio (tono humano, tradicional, cercano, lojano).
+
+No quiero una web corporativa.
+Quiero una máquina simple de mensajes por WhatsApp.
+
+
+---
+
+🧠 ENFOQUE SEO Y CONTEXTO
+
+Toda la página debe girar alrededor de esta idea central:
+
+👉 Tamales tradicionales en San Sebastián, Loja
+
+Y desarrollar semánticamente:
+
+tamales en San Sebastián
+
+tamales en Loja Ecuador
+
+tamal lojano tradicional
+
+tamales de chancho en Loja
+
+tamales con café
+
+comida típica de Loja
+
+
+Debe incluir un bloque de autoridad temática donde se explique qué es el tamal lojano y cómo se prepara, para que Google entienda que esta página sí desarrolla el tema, no solo vende.
+
+
+---
+
+🧱 ESTRUCTURA OBLIGATORIA DE LA PÁGINA
+
+La página debe tener estas secciones, en este orden:
+
+1. Hero (venta directa)
+
+
+2. Productos (tamales)
+
+
+3. Usos / momentos de consumo
+
+
+4. Bloque de autoridad: ¿Qué es el tamal lojano?
+
+
+5. Ubicación en San Sebastián
+
+
+6. Confianza / tradición
+
+
+7. Cierre final con llamado a la acción
+
+
+
+Todos los botones deben llevar a WhatsApp con mensaje predefinido rastreable, por ejemplo:
+“Hola, vengo de la página de tamales de San Sebastián en Loja y quiero hacer un pedido.”
+
+
+---
+
+✍️ TEXTOS DEFINITIVOS PARA LA PÁGINA
+
+🔥 HERO
+
+H1 (principal, SEO):
+Tamales tradicionales en San Sebastián, Loja
+
+Texto:
+Preparo tamales todos los días aquí, en San Sebastián, con recetas tradicionales de Loja. Son perfectos para el desayuno, para acompañar el cafecito de la tarde o para compartir en reuniones y eventos.
+
+Pollo • Chancho • Mixtos • Queso ☕🫔
+
+Botón:
+👉 Pedir tamales por WhatsApp
+
+
+---
+
+🫔 PRODUCTOS
+
+Título de sección (H2):
+Tamales de chancho, pollo, mixtos y queso en San Sebastián
+
+Texto corto:
+Hago mis tamales de manera artesanal, con masa de maíz, bien aliñados y cocinados al vapor como se ha hecho toda la vida en Loja.
+
+🫔 Tamal de chancho
+
+Suave, jugoso y lleno de sabor tradicional.
+👉 Quiero pedir tamales de chancho
+
+🫔 Tamal de pollo
+
+Clásico, ligero y perfecto para acompañar el café.
+👉 Quiero pedir tamales de pollo
+
+🫔 Tamal mixto
+
+Para quienes quieren un poco de todo.
+👉 Quiero pedir tamales mixtos
+
+🫔 Tamal de queso
+
+Tradicional, suavecito y recién hecho.
+👉 Quiero pedir tamales de queso
+
+
+---
+
+☕ USOS / MOMENTOS
+
+Título (H2):
+Un tamal siempre cae bien
+
+☀️ Para el desayuno
+Un buen tamal lojano con café caliente para empezar bien el día.
+
+🌥 Para la tarde
+El cafecito de Loja se disfruta mejor con un tamal recién hecho.
+
+🎉 Para reuniones y eventos
+Preparo pedidos para cumpleaños, encuentros familiares, velorios y eventos.
+
+👉 Pedir tamales por WhatsApp
+
+
+---
+
+🌽 AUTORIDAD – BLOQUE TEMÁTICO
+
+Título (H2):
+¿Qué es el tamal lojano?
+
+Texto largo (SEO y autoridad):
+El tamal lojano es uno de los platos más tradicionales de la gastronomía de Loja, Ecuador. Se prepara con masa de maíz amarillo molido, mezclada con manteca de chancho y aliños tradicionales. Su relleno puede ser de chancho, pollo o queso, acompañado de vegetales y condimentos que le dan su sabor característico.
+
+Una de sus principales particularidades es que se envuelve en hojas de achira, lo que le aporta aroma y un gusto muy especial. Luego se cocina al vapor hasta obtener una textura suave y un sabor profundo.
+
+En Loja, el tamal es parte de la vida diaria: se come en el desayuno, en la tarde con café o en reuniones familiares. Por eso, preparar tamales en San Sebastián no es solo vender comida, es mantener viva una tradición lojana.
+
+
+---
+
+📍 UBICACIÓN
+
+Título (H2):
+Tamales en San Sebastián, Loja
+
+Texto:
+Me encuentras en los bajos de la iglesia de San Sebastián, en la parte de atrás de la plazoleta. Atiendo todos los días y también preparo pedidos.
+
+Aquí puedes ver cómo llegar fácilmente.
+
+👉 Escribirme por WhatsApp para pedir
+
+(Aquí va el video o mapa)
+
+
+---
+
+🤝 CONFIANZA / TRADICIÓN
+
+Título (H2):
+Tradición que se sigue cocinando
+
+Texto:
+Preparo tamales todos los días, aquí mismo en San Sebastián, con recetas tradicionales y productos frescos. Atiendo a vecinos, familias y personas que vienen de distintos sectores de Loja a buscar un buen tamal.
+
+(Aquí van 2 o 3 testimonios reales si los tienes)
+
+
+---
+
+🟢 CIERRE FINAL
+
+Texto:
+Tamales tradicionales en San Sebastián, Loja.
+Recién hechos, listos para acompañar tu café o tu reunión.
+
+👉 Pedir tamales ahora por WhatsApp
+
+
+---
+
+⚙️ REQUERIMIENTOS FUNCIONALES
+
+Todos los botones llevan a WhatsApp.
+
+Todos los enlaces usan mensaje predefinido con la frase:
+“vengo de la página de tamales de San Sebastián en Loja”.
+
+Página rápida, simple, sin distracciones.
+
+Optimizada para móvil.
+
+Imágenes con ALT relacionados a:
+“tamales en San Sebastián”, “tamal lojano”, “tamales en Loja”.
+
+
+
+---
+
+🎯 OBJETIVO FINAL
+
+Esta página no es informativa.
+Es una landing de conversión local.
+
+Todo debe conducir a una sola acción:
+👉 escribir por WhatsApp para pedir tamales.
+
+
+---
+
+Si quieres, luego de esto te ayudo a crear:
+
+el texto exacto de los mensajes automáticos de WhatsApp
+
+o el pequeño speech que usarías después como caso de éxito comercial.
+
+
+Pero con este prompt ya puedes mandar a construir la página completa.

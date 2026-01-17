@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Tamales tradicionales en San Sebastián, Loja. Recién hechos, artesanales, con recetas tradicionales. Pide por WhatsApp.">
+    <meta name="keywords"
+        content="tamales San Sebastián, tamales Loja, tamal lojano, tamales chancho, tamales pollo, comida típica Loja">
+    <meta name="author" content="Tamales San Sebastián">
+    <meta property="og:title" content="Tamales Tradicionales en San Sebastián, Loja">
+    <meta property="og:description" content="Tamales artesanales recién hechos. Pide ahora por WhatsApp.">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="es_EC">
+    <meta property="og:image" content="https://tamales-san-sebastian.com/public/images/general/og-image.webp">
+
+    <link rel="canonical" href="https://tamales-san-sebastian.com/">
+    <title>Tamales Tradicionales en San Sebastián, Loja - Recién Hechos</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <!-- FIXED HEADER -->
+    <header class="main-header" id="mainHeader">
+        <div class="container header-container">
+            <div class="header-logo">
+                <img src="public/images/general/logo.webp" alt="Tamales San Sebastián"
+                    onerror="this.src='https://placehold.co/100x40/F4C430/2D3748?text=Tamales'">
+            </div>
+            <div class="header-message">
+                <p>Pídelos por WhatsApp</p>
+            </div>
+            <div class="header-cta">
+                <button class="btn btn-whatsapp-header" onclick="handleWhatsAppClick('general')">
+                    <span>WhatsApp</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- HERO SECTION -->
+    <section class="hero" id="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>Tamales tradicionales en San Sebastián, Loja</h1>
+                <p class="hero-subtitle">Preparo tamales todos los días aquí, en San Sebastián, con recetas
+                    tradicionales de Loja. Son perfectos para el desayuno, para acompañar el cafecito de la tarde o para
+                    compartir en reuniones y eventos.</p>
+                <p class="hero-tags">Pollo • Chancho • Mixtos • Queso ☕🫔</p>
+                <button class="btn btn-primary" onclick="handleWhatsAppClick('general')">👉 Pedir tamales por
+                    WhatsApp</button>
+            </div>
+            <div class="hero-image">
+                <img src="public/images/general/hero-tamal.webp" alt="Tamales Tradicionales" class="hero-img-main"
+                    onerror="this.innerHTML='🫔'; this.style.fontSize='120px';">
+            </div>
+        </div>
+    </section>
+
+    <!-- PRODUCTOS SECTION -->
+    <section class="products" id="productos">
+        <div class="container">
+            <h2>Tamales de chancho, pollo, mixtos y queso en San Sebastián</h2>
+            <p class="section-intro">Hago mis tamales de manera artesanal, con masa de maíz, bien aliñados y cocinados
+                al vapor como se ha hecho toda la vida en Loja.</p>
+
+            <div class="products-grid">
+                <!-- Tamal de Chancho -->
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="public/images/productos/tamal-chancho.webp" alt="Tamal de Chancho"
+                            onerror="this.src='https://placehold.co/300x200/FFF8E7/2D3748?text=Tamal+de+Chancho'">
+                    </div>
+                    <h3>Tamal de Chancho</h3>
+                    <p>Suave, jugoso y lleno de sabor tradicional.</p>
+                    <button class="btn btn-secondary" onclick="handleWhatsAppClick('chancho')">👉 Quiero pedir tamales
+                        de chancho</button>
+                </div>
+
+                <!-- Tamal de Pollo -->
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="public/images/productos/tamal-pollo.webp" alt="Tamal de Pollo"
+                            onerror="this.src='https://placehold.co/300x200/FFF8E7/2D3748?text=Tamal+de+Pollo'">
+                    </div>
+                    <h3>Tamal de Pollo</h3>
+                    <p>Clásico, ligero y perfecto para acompañar el café.</p>
+                    <button class="btn btn-secondary" onclick="handleWhatsAppClick('pollo')">👉 Quiero pedir tamales de
+                        pollo</button>
+                </div>
+
+                <!-- Tamal Mixto -->
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="public/images/productos/tamal-mixto.webp" alt="Tamal Mixto"
+                            onerror="this.src='https://placehold.co/300x200/FFF8E7/2D3748?text=Tamal+Mixto'">
+                    </div>
+                    <h3>Tamal Mixto</h3>
+                    <p>Para quienes quieren un poco de todo.</p>
+                    <button class="btn btn-secondary" onclick="handleWhatsAppClick('mixto')">👉 Quiero pedir tamales
+                        mixtos</button>
+                </div>
+
+                <!-- Tamal de Queso -->
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="public/images/productos/tamal-queso.webp" alt="Tamal de Queso"
+                            onerror="this.src='https://placehold.co/300x200/FFF8E7/2D3748?text=Tamal+de+Queso'">
+                    </div>
+                    <h3>Tamal de Queso</h3>
+                    <p>Tradicional, suavecito y recién hecho.</p>
+                    <button class="btn btn-secondary" onclick="handleWhatsAppClick('queso')">👉 Quiero pedir tamales de
+                        queso</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- MOMENTOS SECTION -->
+    <section class="moments" id="momentos">
+        <div class="container">
+            <h2>Un tamal siempre cae bien</h2>
+
+            <div class="moments-grid">
+                <div class="moment-card">
+                    <div class="moment-icon">☀️</div>
+                    <h3>Para el desayuno</h3>
+                    <p>Un buen tamal lojano con café caliente para empezar bien el día.</p>
+                </div>
+
+                <div class="moment-card">
+                    <div class="moment-icon">🌥️</div>
+                    <h3>Para la tarde</h3>
+                    <p>El cafecito de Loja se disfruta mejor con un tamal recién hecho.</p>
+                </div>
+
+                <div class="moment-card">
+                    <div class="moment-icon">🎉</div>
+                    <h3>Para reuniones y eventos</h3>
+                    <p>Preparo pedidos para cumpleaños, encuentros familiares, velorios y eventos.</p>
+                </div>
+            </div>
+
+            <button class="btn btn-primary" onclick="handleWhatsAppClick('general')">👉 Pedir tamales por
+                WhatsApp</button>
+        </div>
+    </section>
+
+    <!-- VIDEO SECTION -->
+    <section class="video-section" id="video">
+        <div class="container">
+            <h2>Nuestra Tradición en Video</h2>
+            <p class="section-intro">Mira cómo preparamos nuestros tamales con amor y tradición.</p>
+            <div class="video-container" id="videoContainer" onclick="loadVideo()">
+                <div class="video-facade">
+                    <img src="public/images/general/video-cover.webp" alt="Video Cover" class="video-cover"
+                        onerror="this.src='https://placehold.co/1200x675/F4C430/2D3748?text=Ver+Video+Tradicion'">
+                    <div class="play-button">
+                        <svg viewBox="0 0 24 24" fill="white" width="64px" height="64px">
+                            <path d="M8 5v14l11-7z" />
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- AUTORIDAD SECTION -->
+    <section class="authority" id="autoridad">
+        <div class="container">
+            <h2>¿Qué es el tamal lojano?</h2>
+            <div class="authority-content">
+                <p>El tamal lojano es uno de los platos más tradicionales de la gastronomía de Loja, Ecuador. Se prepara
+                    con masa de maíz amarillo molido, mezclada con manteca de chancho y aliños tradicionales. Su relleno
+                    puede ser de chancho, pollo o queso, acompañado de vegetales y condimentos que le dan su sabor
+                    característico.</p>
+
+                <p>Una de sus principales particularidades es que se envuelve en hojas de achira, lo que le aporta aroma
+                    y un gusto muy especial. Luego se cocina al vapor hasta obtener una textura suave y un sabor
+                    profundo.</p>
+
+                <p>En Loja, el tamal es parte de la vida diaria: se come en el desayuno, en la tarde con café o en
+                    reuniones familiares. Por eso, preparar tamales en San Sebastián no es solo vender comida, es
+                    mantener viva una tradición lojana.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- UBICACIÓN SECTION -->
+    <section class="location" id="ubicacion">
+        <div class="container">
+            <h2>Tamales en San Sebastián, Loja</h2>
+            <p class="location-text">Me encuentras en los bajos de la iglesia de San Sebastián, en la parte de atrás de
+                la plazoleta. Atiendo todos los días y también preparo pedidos.</p>
+            <p class="location-text">Aquí puedes ver cómo llegar fácilmente.</p>
+
+            <div class="location-map">
+                <div class="map-placeholder">📍 San Sebastián, Loja, Ecuador</div>
+            </div>
+
+            <button class="btn btn-primary" onclick="handleWhatsAppClick('general')">👉 Escribirme por WhatsApp para
+                pedir</button>
+        </div>
+    </section>
+
+    <!-- CONFIANZA SECTION -->
+    <section class="trust" id="confianza">
+        <div class="container">
+            <h2>Tradición que se sigue cocinando</h2>
+            <p class="trust-intro">Preparo tamales todos los días, aquí mismo en San Sebastián, con recetas
+                tradicionales y productos frescos. Atiendo a vecinos, familias y personas que vienen de distintos
+                sectores de Loja a buscar un buen tamal.</p>
+
+            <div class="testimonials">
+                <div class="testimonial">
+                    <p class="testimonial-text">"Los tamales más auténticos que he probado. Receta tradicional pura."
+                    </p>
+                    <p class="testimonial-author">- Cliente de San Sebastián</p>
+                </div>
+                <div class="testimonial">
+                    <p class="testimonial-text">"Cada día vienen nuevos clientes. La calidad habla por sí sola."</p>
+                    <p class="testimonial-author">- Vecino de la zona</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CIERRE SECTION -->
+    <section class="closing" id="cierre">
+        <div class="container">
+            <h2>Tamales tradicionales en San Sebastián, Loja</h2>
+            <p>Recién hechos, listos para acompañar tu café o tu reunión.</p>
+            <button class="btn btn-primary btn-large" onclick="handleWhatsAppClick('general')">👉 Pedir tamales ahora
+                por WhatsApp</button>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Tamales Tradicionales San Sebastián, Loja. Todos los derechos reservados.</p>
+            <p class="footer-contact">📍 San Sebastián, Loja, Ecuador | 📱 WhatsApp: Rosa Quezada</p>
+            <p class="footer-designer">Diseñada por <a href="https://cesarreyesjaramillo.com/" target="_blank">César
+                    Reyes</a></p>
+        </div>
+    </footer>
+
+    <!-- Schema JSON para Local Business -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FoodEstablishment",
+        "name": "Tamales Tradicionales San Sebastián",
+        "image": "https://tamales-san-sebastian.com/public/images/general/hero-tamal.webp",
+        "description": "Tamales artesanales tradicionales en San Sebastián, Loja. Pollo, chancho, mixtos y queso.",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bajos de la Iglesia de San Sebastián",
+            "addressLocality": "Loja",
+            "addressRegion": "Loja",
+            "addressCountry": "EC"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "-3.9984",
+            "longitude": "-79.2023"
+        },
+        "telephone": "+593982810040",
+        "url": "https://tamales-san-sebastian.com",
+        "priceRange": "$",
+        "servesCuisine": "Ecuadorian",
+        "openingHours": "Mo-Su 07:00-20:00"
+    }
+    </script>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
